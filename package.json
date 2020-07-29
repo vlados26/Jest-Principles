@@ -1,0 +1,19 @@
+{
+    "name": "unit_testing",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "test:coverage": "jest --coverage"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^26.0.7",
+        "jest": "^26.1.0"
+    },
+    "dependencies": {
+        "axios": "^0.19.2"
+    }
+}
